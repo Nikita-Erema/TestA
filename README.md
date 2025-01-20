@@ -1,3 +1,3 @@
 # My Languages
 
-![JS](https://www.google.com/imgres?q=Js&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F99%2FUnofficial_JavaScript_logo_2.svg%2F1200px-Unofficial_JavaScript_logo_2.svg.png&imgrefurl=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FJavaScript&docid=CkXirMXvIZwNmM&tbnid=kTPXI1Mgowy3PM&vet=12ahUKEwiYgqqrzoSLAxXoAxAIHQAuDpEQM3oECBgQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwiYgqqrzoSLAxXoAxAIHQAuDpEQM3oECBgQAA)  Java-Script
+![JS](/img/JS.png)  Java-Script
